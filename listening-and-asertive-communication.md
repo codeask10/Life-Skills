@@ -62,3 +62,13 @@ I tend to switch to an aggressive communication style when talking to someone, a
 
 
 Passive-aggressive communication involves indirect expressions of negative feelings, like backhanded compliments or silence. It often stems from fear of conflict or difficulty expressing emotions, leading to mistrust and unresolved issues. To counter it, direct communication, clear boundaries, and open dialogue are essential for healthier relationships.
+
+## Question 8
+
+### How can you make your communication assertive? 
+
+- Speak clearly and directly.
+- Use "I" statements to express your feelings.
+- Keep calm, confident body language.
+- Set clear boundaries.
+- Listen to others and stay open to feedback.
